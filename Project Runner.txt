@@ -1,0 +1,3 @@
+Project Runner
+
+Creating a program like nodemon where it watches for any saved changes in our project and reexecutes our working file automatically. This way we don't have to keep restarting our project repeatedly, as we make new changes
